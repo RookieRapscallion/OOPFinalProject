@@ -6,12 +6,13 @@
 - Haihan Jiang (rtjsx)
 
 ### UML Diagrams
-UML Diagrams are located within the `UmlDiagram` directory. Within that directory, there are 5 sub-directories:
+UML Diagrams are located within the `UmlDiagram` directory. Within that directory, there are 3 sub-directories, and 3 files:
 - **AdminSequenceDiagrams:** 6 diagrams in total
 - **NewUserSequenceDiagrams:** 1 diagram in total
 - **UserSequenceDiagrams:** 6 diagrams in total
-- **ClassDiagrams:** 1 diagram in total
-- **UseCaseDiagrams:** 1 diagram in total
+- **ClassDiagram**
+- **UseCaseDiagram** 
+- **UseCaseDescriptions**
 
 ## Console Banking Application
 
